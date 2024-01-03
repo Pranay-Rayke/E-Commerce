@@ -7,5 +7,5 @@ How to run the project??
 3) Set url, username and password. (Make sure port number might be different for you. Set it according to your system)
 4) Create a database ecommerce. (Name must be same as in url)
 5) Run the application.
-6) Open the browser and paste the url : http://localhost:8080/swagger-ui/index.html (Port Number might be different in your case.)
+6) Open the browser and paste the url : http://localhost:8080/swagger-ui/index.html (Port Number might be different in your case. I have used Postman for test the API. Swagger is use only for documentation purpose only.)
 7) Now you can access all the API.
