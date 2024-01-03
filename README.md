@@ -1,5 +1,7 @@
 #E-Commerce Project
 
+Pre Requisite : Intellij IDE, JDK, Maven, Postman.
+
 How to run the project??
 
 1) Clone the repository in Intellij or any IDE : https://github.com/Pranay-Rayke/E-Commerce.git
